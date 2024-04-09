@@ -52,7 +52,7 @@ typedef enum _TBdrv_Ch{
    ,  HS1 = 2u
    ,  HS2 = 3u
 #if(UC_SERIES == TLE987)
-  
+
    ,  LS3 = 4u
    ,  HS3 = 5u
 #endif
